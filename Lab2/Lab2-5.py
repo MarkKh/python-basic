@@ -1,0 +1,9 @@
+a, b, c = 4500, 12000, 6000
+discountA = a*0.065
+discountB = b*0.1
+discountC = c*0.04
+discountSum = discountA + discountB + discountC
+print("A =",a)
+print("B =",b)
+print("C =",c)
+print("Sum discount =",discountSum)
